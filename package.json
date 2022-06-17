@@ -69,7 +69,7 @@
         "@types/node": "12.7.3",
         "angular-cli-ghpages": "0.6.0",
         "codelyzer": "5.1.0",
-        "electron": "^7.1.9",
+        "electron": "^15.5.5",
         "hammerjs": "2.0.8",
         "jasmine-core": "3.4.0",
         "jasmine-spec-reporter": "4.2.1",
